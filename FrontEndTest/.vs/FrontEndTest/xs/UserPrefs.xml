@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{6B9AC6A5-FDF9-4778-9394-562187168770}|">
+  <MonoDevelop.Ide.ItemProperties.FrontEndTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FrontEndTest" expanded="True">
+            <Node name="FrontEndTest" expanded="True">
+              <Node name="Content" expanded="True" />
+              <Node name="scripts" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="src" expanded="True">
+                <Node name="client" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="home" expanded="True" />
+                    <Node name="overview" expanded="True" />
+                    <Node name="services" expanded="True" />
+                    <Node name="shell" expanded="True" />
+                    <Node name="user" expanded="True">
+                      <Node name="user.controller.js" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

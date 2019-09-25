@@ -1,0 +1,5 @@
+/Users/alex/Projects/FrontEndTest/FrontEndTest/bin/FrontEndTest.dll
+/Users/alex/Projects/FrontEndTest/FrontEndTest/bin/FrontEndTest.pdb
+/Users/alex/Projects/FrontEndTest/FrontEndTest/obj/Debug/FrontEndTest.csprojAssemblyReference.cache
+/Users/alex/Projects/FrontEndTest/FrontEndTest/obj/Debug/FrontEndTest.dll
+/Users/alex/Projects/FrontEndTest/FrontEndTest/obj/Debug/FrontEndTest.pdb
